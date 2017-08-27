@@ -88,6 +88,7 @@ class ImgFigure extends React.Component {
 			</figure>
 		);
 	}
+
 }
 
 class ControllerUnit extends React.Component {
